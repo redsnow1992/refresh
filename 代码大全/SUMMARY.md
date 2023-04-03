@@ -41,20 +41,20 @@
 * [第二十五章 代码调优策略](part5-code-improvements/code-tuning-strategies.md)
 * [第二十六章 代码调优技巧](part5-code-improvements/code-tuning-techniques.md)
 
-## 第六部分 系统性考虑 <a href="#system-considerations" id="system-considerations"></a>
+## 第六部分 系统性考虑 <a href="#part6-system-considerations" id="part6-system-considerations"></a>
 
-* [第二十七章 程序大小如何影响构建](system-considerations/how-program-size-affects-construction.md)
-* [第二十八章 管理构建](system-considerations/managing-construction.md)
-* [第二十九章 集成](system-considerations/integration.md)
-* [第三十章 编程工具](system-considerations/programming-tools.md)
+* [第二十七章 程序大小如何影响构建](part6-system-considerations/how-program-size-affects-construction.md)
+* [第二十八章 管理构建](part6-system-considerations/managing-construction.md)
+* [第二十九章 集成](part6-system-considerations/integration.md)
+* [第三十章 编程工具](part6-system-considerations/programming-tools.md)
 
-## 第七部分 软件工艺 <a href="#software-craftsmanship" id="software-craftsmanship"></a>
+## 第七部分 软件工艺 <a href="#part7-software-craftsmanship" id="part7-software-craftsmanship"></a>
 
-* [第三十一章 布局和风格](software-craftsmanship/layout-and-style.md)
-* [第三十二章 自文档代码](software-craftsmanship/self-documenting-code.md)
-* [第三十三章 个人品格](software-craftsmanship/personal-character.md)
-* [第三十四章 把软件做成工艺品](software-craftsmanship/themes-in-software-craftsmanship.md)
-* [第三十五章 哪里找到更多信息](software-craftsmanship/where-to-find-more-information.md)
+* [第三十一章 布局和风格](part7-software-craftsmanship/layout-and-style.md)
+* [第三十二章 自文档代码](part7-software-craftsmanship/self-documenting-code.md)
+* [第三十三章 个人品格](part7-software-craftsmanship/personal-character.md)
+* [第三十四章 把软件做成工艺品](part7-software-craftsmanship/themes-in-software-craftsmanship.md)
+* [第三十五章 哪里找到更多信息](part7-software-craftsmanship/where-to-find-more-information.md)
 
 ## 备注 <a href="#remark" id="remark"></a>
 
