@@ -2,7 +2,7 @@
 
 ## 第一部分 奠定基础 <a href="#part1-laying-the-foundation" id="part1-laying-the-foundation"></a>
 
-* [第一章 欢迎来到软件构建](README.md)
+* [✅ 第一章 欢迎来到软件构建](README.md)
 * [第二章 比喻，丰富对软件开发的认识](part1-laying-the-foundation/metaphors-for-a-richer-understanding-of-software-development.md)
 * [第三章 三思而后行：上游先决条件](part1-laying-the-foundation/measure-twice-cut-once-upstream-prerequisties.md)
 * [第四章 构建中的关键决定](part1-laying-the-foundation/key-construction-decisions.md)
